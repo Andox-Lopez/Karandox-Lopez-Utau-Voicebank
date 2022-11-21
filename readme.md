@@ -2,6 +2,9 @@
 
 Copyright c 2022 KarashP.All rights reserved.
 
+[Download](https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/releases/)
+
+![image](https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/blob/main/Karanndox%20Lopez.png)
 注意：使用本音源进行创作时必须遵守使用条款
 
 当使用者使用了这套音源，即视为使用者接受以下条款.
@@ -60,11 +63,10 @@ VB种类：CVVCJPN
 
 用在使用该音源时，不得有违反法律、危害网络安全或损害第三方合法权益之行为，否则由此生的后果均由用自己承担。
 
-联系方式：Karandoxese@outlook.com | 438756871 [或添加官方交流群](https://jq.qq.com/?_wv=1027&k=ssqcbYip)
+联系方式：Karandoxese@outlook.com | 联系QQ：438756871或[添加官方交流群](https://jq.qq.com/?_wv=1027&k=ssqcbYip)
 
 感谢使用
 
-[Download](https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/releases/)
 
 Update:
 
