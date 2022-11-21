@@ -70,12 +70,12 @@ https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/releases/
 
 Update:
 
-1.0.1：在原有E3、B3基础上增加强混音色F4
+1.0.1：增加强混音色F4
 
 1.0.2：修正部分发音瑕疵
 
-1.0.3：在原有基础上增加音色扩张Lower(sadlike)-A2
+1.0.3：增加音色扩张Lower(sadlike)-A2
 
-1.0.4：在原有基础上增加音色扩张Falsetto-G4（标记为G4 F_xx）
+1.0.4：增加音色扩张Falsetto-G4（标记为G4 F_xx）
 
 1.0.5：增加Unvoiced Consonant额外辅音
