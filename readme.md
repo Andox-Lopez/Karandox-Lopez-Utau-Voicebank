@@ -62,11 +62,11 @@ VB种类：CVVCJPN
 
 联系方式：Karandoxese@outlook.com | 438756871
 
+QQ群：202148486
+
 感谢使用
 
-Download:
-
-https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/releases/
+Download: https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/releases/
 
 Update:
 
