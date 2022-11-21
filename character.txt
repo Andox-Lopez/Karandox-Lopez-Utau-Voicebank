@@ -1,0 +1,6 @@
+name=Karandox Lopez_JPN
+author=KarashP
+image=head.png
+sample=sample.wav
+voice=KarashP
+version=CVVCJPN_1.0.4

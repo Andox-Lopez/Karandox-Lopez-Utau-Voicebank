@@ -1,0 +1,30 @@
+﻿text_file_encoding: gb2312
+portrait: Karanndox Lopez.png
+portrait_opacity: 0.67000001668930054
+default_phonemizer: OpenUtau.Plugin.Builtin.JapaneseCVVCPhonemizer
+subbanks:
+- color: ''
+  prefix: F4_
+  suffix: ''
+  tone_ranges:
+  - D4-B7
+- color: ''
+  prefix: B3_
+  suffix: ''
+  tone_ranges:
+  - G3-C#4
+- color: ''
+  prefix: E3_
+  suffix: ''
+  tone_ranges:
+  - C1-F#3
+- color: Falsetto
+  prefix: G4 F_
+  suffix: ''
+  tone_ranges:
+  - C1-B7
+- color: Lower(sadlike)
+  prefix: A2_
+  suffix: ''
+  tone_ranges:
+  - C1-B7
