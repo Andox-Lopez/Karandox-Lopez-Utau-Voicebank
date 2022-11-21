@@ -60,13 +60,11 @@ VB种类：CVVCJPN
 
 用在使用该音源时，不得有违反法律、危害网络安全或损害第三方合法权益之行为，否则由此生的后果均由用自己承担。
 
-联系方式：Karandoxese@outlook.com | 438756871
-
-QQ群：202148486
+联系方式：Karandoxese@outlook.com | 438756871 [或添加官方交流群](https://jq.qq.com/?_wv=1027&k=ssqcbYip)
 
 感谢使用
 
-Download: https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/releases/
+[Download](https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/releases/)
 
 Update:
 
