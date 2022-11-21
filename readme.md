@@ -2,9 +2,9 @@
 
 Copyright c 2022 KarashP.All rights reserved.
 
-[Download](https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/releases/)
+[![正常大小的矩形](https://img.shields.io/badge/Download-VoiceBank-blue.svg?style=flat-square)](https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/releases/)
 
-![image](https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/blob/main/Karanndox%20Lopez.png)
+<img src=https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/blob/main/Karanndox%20Lopez.png widgh="150px">
 注意：使用本音源进行创作时必须遵守使用条款
 
 当使用者使用了这套音源，即视为使用者接受以下条款.
