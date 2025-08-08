@@ -7,8 +7,9 @@
 ---
 
   **swich location**
-[English](https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/blob/AutoOTO/readme-Eng.md)  |  [English](https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/blob/AutoOTO/readme-Eng.md)
+[English](https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/blob/AutoOTO/readme-Eng.md)  |  [日本語](https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/blob/AutoOTO/readme-JPN.md)
 
+---
 
 [![正常大小的矩形](https://img.shields.io/badge/Download-VoiceBank-blue.svg?style=flat-square)](https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/releases/)
 
@@ -70,6 +71,7 @@
 ---
 
 **感谢您的使用！**
+
 
 
 
