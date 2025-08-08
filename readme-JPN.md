@@ -4,10 +4,20 @@
 
 > **重要**：本音源を用いた作品制作にあたっては、**利用規約の遵守が必須です**。本音源を使用した時点で、利用者は以下の規約に同意したものとみなされます。
 
+
 ---
 
   **swich location**
-[English](https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/blob/AutoOTO/readme-Eng.md)  |  
+[简体中文](https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/blob/AutoOTO/readme.md)  |  [日本語](https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/blob/AutoOTO/readme-JPN.md)
+
+---
+
+[![正常大小的矩形](https://img.shields.io/badge/Download-VoiceBank-blue.svg?style=flat-square)](https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/releases/)
+
+<img src=https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/blob/main/Karanndox%20Lopez.png widgh="150px">
+
+---
+
 
 ## 🎤 音源情報
 *   **名前**: Karandox Lopez
