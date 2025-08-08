@@ -4,7 +4,20 @@
 
 > **NOTICE**: **You must comply with the Terms of Use** when creating works with this voice bank. Using this voice bank constitutes acceptance of the following terms.
 
+
 ---
+
+  **swich location**
+[简体中文](https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/blob/AutoOTO/readme.md)  |  [日本語](https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/blob/AutoOTO/readme-JPN.md)
+
+---
+
+[![正常大小的矩形](https://img.shields.io/badge/Download-VoiceBank-blue.svg?style=flat-square)](https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/releases/)
+
+<img src=https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/blob/main/Karanndox%20Lopez.png widgh="150px">
+
+---
+
 
 ## 🎤 Vocalist Information
 *   **Name**: Karandox Lopez
