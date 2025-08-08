@@ -67,10 +67,11 @@
 *   **v1.0.3**: 增加音色扩张 Lower(sadlike)-A2
 *   **v1.0.4**: 增加音色扩张 Falsetto-G4（标记为 `G4 F_xx`）
 *   **v1.0.5**: 增加 Unvoiced Consonant 额外辅音
-
+*   **v1.0.6（AutoOTO）**：使用自动推定oto
 ---
 
 **感谢您的使用！**
+
 
 
 
