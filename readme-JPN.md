@@ -8,7 +8,7 @@
 ---
 
   **swich location**
-[简体中文](https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/blob/AutoOTO/readme.md)  |  [日本語](https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/blob/AutoOTO/readme-JPN.md)
+[简体中文](https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/blob/AutoOTO/readme.md)  |  [English](https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/blob/AutoOTO/readme-Eng.md)
 
 ---
 
