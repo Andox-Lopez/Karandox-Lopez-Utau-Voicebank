@@ -78,3 +78,6 @@
 *   **v1.0.4**: 音色拡張 Falsetto-G4追加（`G4 F_xx`で標記）
 *   **v1.0.5**: 無声子音(Unvoiced Consonant)拡張追加
 *   **v1.0.6 (AutoOTO)**: 自動推定oto.ini設定を追加
+
+
+[简体中文版からDeepSeekによる翻訳]
