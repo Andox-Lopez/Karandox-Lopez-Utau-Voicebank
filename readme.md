@@ -6,7 +6,7 @@
 
 ---
 
-  **swich language**
+  **swich location**
 [English](https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/blob/AutoOTO/readme-Eng.md)  |  [English](https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/blob/AutoOTO/readme-Eng.md)
 
 
@@ -70,5 +70,6 @@
 ---
 
 **感谢您的使用！**
+
 
 
