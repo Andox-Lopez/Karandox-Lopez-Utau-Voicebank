@@ -1,81 +1,69 @@
-#UTAU CVVCJPN VoiceBank#
+# UTAU CVVCJPN 音源库：Karandox Lopez_CVVCJPN
 
-Copyright c 2022 KarashP.All rights reserved.
+**Copyright © 2022 KarashP. All rights reserved.**
+
+> **注意**：使用本音源进行创作时**必须遵守使用条款**。当使用者使用了这套音源，即视为使用者接受以下条款。
+
+---
+
 
 [![正常大小的矩形](https://img.shields.io/badge/Download-VoiceBank-blue.svg?style=flat-square)](https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/releases/)
 
 <img src=https://github.com/Andox-Lopez/Karandox-Lopez-Utau-Voicebank/blob/main/Karanndox%20Lopez.png widgh="150px">
-注意：使用本音源进行创作时必须遵守使用条款
 
-当使用者使用了这套音源，即视为使用者接受以下条款.
+---
 
-· 本声库编码为GB2312，如需UTAU使用请自行使用菲菲更名宝贝™进行文件编码及oto.ini文件编码转换，或下载For Utau包
+## 🎤 歌手信息
+*   **名称**: Karandox Lopez
+*   **年龄**: 27
+*   **身高**: 187 cm
+*   **体重**: 70 公斤
+*   **音源库种类**: CVVCJPN
+*   **音阶数**: 5 音阶
+*   **中之人/原音设定**: KarashP
 
-· 音高标记对应音高请参照character.yaml
+---
 
-Karandox Lopez_CVVCJPN
+## ⚠ 重要使用说明
+*   本声库文本编码为 **GB2312**。如需在 UTAU 中使用，请自行使用“菲菲更名宝贝™”进行文件及 `oto.ini` 文件编码转换，或下载专用 `For Utau` 包。
+*   音高标记对应的具体音高请参照 `character.yaml` 文件。
+*   **使用 CVVC 音源必须拆音，必须拆音，必须拆音！**
 
-首先非常感谢下载并使用Karandox Lopez_CVVCJPN.
+---
 
-歌手信息：
+## 📜 使用条款
+*   使用原立绘时**必须注明画师：KarashP**。
+*   允许对原音进行降噪等处理。
+*   允许在原有 `oto.ini` 配置的基础上按照个人喜好修改。**但是，禁止二次发布修改后的音源文件本身。**
+*   **禁止**对文本文件（如 `.txt`, `.yaml`）和图片文件进行修改，**禁止**再次发布这些文件。
+*   在视频等作品中使用本音源时**不需要**特别联络作者。
+*   **禁止**利用该音源制作违反国家法律法规或触犯道德底线的歌曲。
+*   **禁止**利用该音源制作包含猥亵、色情、鬼畜、极端宗教或**暴力内容**的歌曲。
+*   出于**商业目的**而利用该音源或音源名称时，**有义务告知并征得音源制作方（KarashP）的同意**。
+*   制作翻唱作品时，**请注意并遵守**相关歌曲的版权规定。
 
-名称：Karandox Lopez
+> **重要**：如果不能接受以上条款，原作者（KarashP）有权无条件停止使用者对 Karandox Lopez 音源的使用权。
 
-年龄：27
+---
 
-身高：187
+## ⚖ 免责声明
+在使用该音源时，使用者不得有违反法律、危害网络安全或损害第三方合法权益之行为。否则由此产生的一切后果均**由使用者自行承担**。
 
-体重：70公斤
+---
 
-VB种类：CVVCJPN
+## 📮 联系方式
+*   **邮箱**: Karandoxese@outlook.com
+*   **QQ**: 438756871 或添加官方交流群
 
-音阶数：5音阶
+---
 
-中之人：KarashP
+## ✨ 更新日志 (Updates)
+*   **v1.0.1**: 增加强混音色 F4
+*   **v1.0.2**: 修正部分发音瑕疵
+*   **v1.0.3**: 增加音色扩张 Lower(sadlike)-A2
+*   **v1.0.4**: 增加音色扩张 Falsetto-G4（标记为 `G4 F_xx`）
+*   **v1.0.5**: 增加 Unvoiced Consonant 额外辅音
 
-原音设定：KarashP
+---
 
-使用条款：
-
-· 使用原立绘须注明画师：KarashP
-
-· 可以去除原音的噪音等.
-
-· 在原有OTO的基础上按照个人喜好修改.但是，请不要二次发布音源.
-
-· 禁止对文本文件和图片文件进行修改，禁止再次发布.
-
-· 在视频等中使用时不需要特别联络.
-
-· 禁止利用该音源制作违反国家法律法规或触犯道德底线的歌曲.
-
-· 禁止利用该音源制作包含猥亵，色情，鬼畜，极端宗教或暴力？容的歌曲.
-
-· 出于商业目的而利用该音源或音源名称时，有告知并征得音源制作方同意的义务.
-
-· 在制作翻唱时请注意歌曲的版权问题.
-
-*使用CVVC音源必须拆音，必须拆音，必须拆音！
-
-最后如果不能接受以上条款，原作者（KarashP）有权无条件停止Karandox Lopez的使用权.
-
-免责声明
-
-用在使用该音源时，不得有违反法律、危害网络安全或损害第三方合法权益之行为，否则由此生的后果均由用自己承担。
-
-联系方式：Karandoxese@outlook.com | 联系QQ：438756871或[添加官方交流群](https://jq.qq.com/?_wv=1027&k=ssqcbYip)
-
-感谢使用
-
-
-Update:
-
-1.0.1：增加强混音色F4
-
-1.0.2：修正部分发音瑕疵
-
-1.0.3：增加音色扩张Lower(sadlike)-A2
-
-1.0.4：增加音色扩张Falsetto-G4（标记为G4 F_xx）
-
-1.0.5：增加Unvoiced Consonant额外辅音
+**感谢您的使用！**
