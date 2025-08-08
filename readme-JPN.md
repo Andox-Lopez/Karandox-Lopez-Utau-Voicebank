@@ -80,4 +80,4 @@
 *   **v1.0.6 (AutoOTO)**: 自動推定oto.ini設定を追加
 
 
-[简体中文版からDeepSeekによる翻訳]
+*[简体中文版からDeepSeekによる翻訳]
