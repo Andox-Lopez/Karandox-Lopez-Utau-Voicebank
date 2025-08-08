@@ -74,4 +74,4 @@ Users shall not engage in any illegal activities, jeopardize network security, o
 
 **Thank you for using this voice bank!**
 
-*[Translated by Deepseek from Chinese version]*
+*[Translated by Deepseek from Chinese Simplified version]*
