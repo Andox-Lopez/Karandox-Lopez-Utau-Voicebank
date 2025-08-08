@@ -69,7 +69,7 @@ Users shall not engage in any illegal activities, jeopardize network security, o
 *   **v1.0.3**: Added timbre expansion Lower(sadlike)-A2
 *   **v1.0.4**: Added timbre expansion Falsetto-G4 (marked as `G4 F_xx`)
 *   **v1.0.5**: Added Unvoiced Consonant extra phonemes
-
+*   **v1.0.6 (AutoOTO)**: Added auto-estimated oto.ini configuration
 ---
 
 **Thank you for using this voice bank!**
